@@ -62,55 +62,80 @@ delay_ms(1000);
 
 lcd_degree_line(119,63,190,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,200,5,40,1);  
+                  
+lcd_degree_line(119,63,200,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,210,5,40,1);  
+                  
+lcd_degree_line(119,63,210,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,220,5,40,1);  
+                  
+lcd_degree_line(119,63,220,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,230,5,40,1);  
+                  
+lcd_degree_line(119,63,230,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,240,5,40,1);  
+                  
+lcd_degree_line(119,63,240,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,250,5,40,1);  
+                  
+lcd_degree_line(119,63,250,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,260,5,40,1);  
+                  
+lcd_degree_line(119,63,260,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,270,5,40,1);  
+                  
+lcd_degree_line(119,63,270,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,280,5,40,1);  
+                  
+lcd_degree_line(119,63,280,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,290,5,40,1);  
+                  
+lcd_degree_line(119,63,290,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,300,5,40,1);  
+                  
+lcd_degree_line(119,63,300,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,310,5,40,1);  
+                  
+lcd_degree_line(119,63,310,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,320,5,40,1);  
+                  
+lcd_degree_line(119,63,320,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,330,5,40,1);  
+                  
+lcd_degree_line(119,63,330,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,340,5,40,1);  
+                  
+lcd_degree_line(119,63,340,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,350,5,40,1);  
+                  
+lcd_degree_line(119,63,350,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,360,5,40,1);  
+                  
+lcd_degree_line(119,63,360,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,10,5,40,1);  
+                  
+lcd_degree_line(119,63,10,5,40,1);  
 delay_ms(1000);
-                                 lcd_degree_line(119,63,20,5,40,1);  
-delay_ms(1000);     
-                                  lcd_degree_line(119,63,30,5,40,1);  
+                  
+lcd_degree_line(119,63,20,5,40,1);  
+delay_ms(1000);  
+                  
+lcd_degree_line(119,63,30,5,40,1);  
 delay_ms(1000);
-                                  lcd_degree_line(119,63,40,5,40,1);  
+                  
+lcd_degree_line(119,63,40,5,40,1);  
 delay_ms(1000);
-                                  lcd_degree_line(119,63,50,5,40,1);  
+                  
+lcd_degree_line(119,63,50,5,40,1);  
 delay_ms(1000);
-                                  lcd_degree_line(119,63,60,5,40,1);  
+                  
+lcd_degree_line(119,63,60,5,40,1);  
 delay_ms(1000);
-                                  lcd_degree_line(119,63,70,5,40,1);  
+                  
+lcd_degree_line(119,63,70,5,40,1);  
 delay_ms(1000);
-                                  lcd_degree_line(119,63,80,5,40,1);  
+                  
+lcd_degree_line(119,63,80,5,40,1);  
 delay_ms(1000);
                 
                 }
